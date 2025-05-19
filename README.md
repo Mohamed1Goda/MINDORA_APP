@@ -29,7 +29,7 @@ Mindora is a UI/UX project designed to help students boost their productivity th
 # Files Included
 - Screenshots of app pages
 - Persona and journey maps (PDF/images)
-- Final UI kit (if applicable)
+- Final UI kit 
 
 ---
 
